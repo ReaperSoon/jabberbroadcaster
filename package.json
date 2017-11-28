@@ -1,0 +1,30 @@
+{
+  "name": "jabberbroadcaster",
+  "version": "1.0.0",
+  "description": "Send a message to multiple users at time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReaperSoon/jabberbroadcaster.git"
+  },
+  "keywords": [
+    "jabber",
+    "xmpp",
+    "message"
+  ],
+  "author": "Steve Cohen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReaperSoon/jabberbroadcaster/issues"
+  },
+  "homepage": "https://github.com/ReaperSoon/jabberbroadcaster#readme",
+  "dependencies": {
+    "node-xmpp": "^1.1.0",
+    "optimist": "^0.6.1",
+    "prompt": "^1.0.0",
+    "simple-xmpp": "^1.3.0"
+  }
+}
