@@ -18,7 +18,9 @@ sudo apt-get install -y nodejs
 
 ### Installing
 
-No installation needed, you can use it directly using nodejs
+```bash
+npm install
+```
 
 ## Running
 
